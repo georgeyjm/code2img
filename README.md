@@ -1,4 +1,4 @@
-# code2img
+# code2img ![Python 3.X](https://img.shields.io/badge/python-3.X-blue.svg)
 
 A program that renders your code into an image.
 
